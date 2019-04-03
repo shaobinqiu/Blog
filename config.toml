@@ -1,5 +1,5 @@
 title = "Dao"
-baseURL = "https://github.com/shaobinqiu/shaobinqiu.github.io"
+baseURL = "https://shaobinqiu.github.io"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
