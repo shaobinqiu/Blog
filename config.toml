@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Dao"
+baseURL = "https://github.com/shaobinqiu/shaobinqiu.github.io"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
