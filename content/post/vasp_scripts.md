@@ -20,7 +20,7 @@ inf=`echo $E|cut -d " " -f 1,3,5,10`
 echo $i $inf >>energy
 done
 ```
-$AveP = \sum_0^1 p(r) dr$
+$AveP = \sum$
 
 ### 2.截断能测试
 ```
