@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/zhuhaiFrisbee.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Dao"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+description: "春有百花， 秋有月； 夏有凉风， 冬有雪."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+一个人懒太久了，稍微努力一下就觉得自己在拼命...
