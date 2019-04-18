@@ -2,4 +2,4 @@
 title: "Articles"
 date: 2017-03-02T12:00:00-05:00
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+有时候觉得这个世界真小， 总会遇到最不想见的人； 有时候又觉得这个世界好大， 离得这么近却也见不到最想见的人 .
