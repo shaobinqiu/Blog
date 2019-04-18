@@ -29,6 +29,16 @@ EDIFFG = -0.001
 ```
 关键参数:  将IBRION=6；ISIF=3；NFREE=4；
 
+不能设置NPAR， 不然会报错：
+```
+ERROR
+|      VASP internal routines  have requested a change of the k-point set.    |
+|      Unfortunately this is only possible if NPAR=number of nodes.           |
+|      Please remove the tag NPAR from the INCAR file and restart the         |
+|      calculations.                                                          |
+```
+
+
 弹性矩阵会直接写在OUTCAR里。
 
 
