@@ -18,7 +18,7 @@ eigenvectors 为行向量。
 
 
 INCAR参考：
-```INCAR
+```
 NSW=0
 ENCUT=400
 ISMEAR=0
