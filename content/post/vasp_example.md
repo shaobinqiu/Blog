@@ -4,7 +4,7 @@ date: 2018-09-11T18:03:09+08:00
 lastmod: 2018-09-11T18:04:09+08:00
 draft: false
 tags: ["15", "vasp"]
-categories: [“vasp”，“15”]
+categories: [“vasp”]
 author: qiusb
  
 ---

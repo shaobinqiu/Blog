@@ -5,7 +5,7 @@ draft: false
 
 sequenceDiagrams: 
   enable: true
-  options: "{theme: 'hand'}"
+  options: "{theme: 'simple'}"
 ---
 
 ## Usage
