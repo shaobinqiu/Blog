@@ -21,8 +21,14 @@ cp 拥有共同前缀文件:
 ```
 cp /home/usr/dir/file{1..4} ./
 ```
-
-
+查找大文件：
+```
+find . -type f -size +800M
+```
+删除：
+```
+find . -type f -size +800M | xargs rm
+```
 
 
 查看可导入模块：
