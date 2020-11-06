@@ -47,3 +47,7 @@ module load modulename
 ```
 module list
 ```
+
+## linux下查看和杀死进程
+
+https://www.cnblogs.com/liaojie970/p/7131043.html
