@@ -76,4 +76,4 @@ supercell
  ZX           0.0000     -0.0000      0.0000     -0.0000     -0.0000   5629.8633
  --------------------------------------------------------------------------------
 ```
-![img](https://raw.githubusercontent.com/shaobinqiu/My_blog/master/images/moduli_diamond.png "img")
+实验数据参考： https://doi.org/10.1063/1.4704698
